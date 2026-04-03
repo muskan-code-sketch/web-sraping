@@ -26,6 +26,8 @@ Helps in learning real-world data collection
 
 I created this project to practice web scraping concepts and understand how data can be collected from websites automatically.
 
+LIVE DEMO:https://web-sraping-c7vp6dcbtp9qmy63d3v3kg.streamlit.app/
+
 📂 Output
 
 Clean and readable dataset
